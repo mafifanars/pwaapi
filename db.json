@@ -1,0 +1,24 @@
+{
+"products":[
+    {"id":1,"name":"Burmese black mountain tortoise","category":"Puce"},
+    {"id":2,"name":"Flycatcher, tyrant","category":"Puce"},
+    {"id":3,"name":"Waved albatross","category":"Turquoise"},
+    {"id":4,"name":"Australian pelican","category":"Pink"},
+    {"id":5,"name":"Badger, european","category":"Aquamarine"},
+    {"id":6,"name":"Crocodile, nile","category":"Turquoise"},
+    {"id":7,"name":"Woylie","category":"Fuscia"},
+    {"id":8,"name":"Otter, giant","category":"Puce"},
+    {"id":9,"name":"Brush-tailed phascogale","category":"Aquamarine"},
+    {"id":10,"name":"Hen, sage","category":"Goldenrod"},
+    {"id":11,"name":"Grenadier, common","category":"Mauv"},
+    {"id":12,"name":"Ferruginous hawk","category":"Pink"},
+    {"id":13,"name":"Two-banded monitor","category":"Purple"},
+    {"id":14,"name":"Great egret","category":"Fuscia"},
+    {"id":15,"name":"Caracara (unidentified)","category":"Orange"},
+    {"id":16,"name":"Levaillant's barbet","category":"Fuscia"},
+    {"id":17,"name":"Pigeon, wood","category":"Violet"},
+    {"id":18,"name":"Cape Barren goose","category":"Pink"},
+    {"id":19,"name":"Eastern boa constrictor","category":"Yellow"},
+    {"id":20,"name":"North American porcupine","category":"Mauv"}
+    ]
+}
